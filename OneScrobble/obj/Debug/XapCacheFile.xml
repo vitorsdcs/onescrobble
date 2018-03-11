@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Bin\Debug\OneScrobble_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="24/8/2014 00:15:38">
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\obj\Debug\OneScrobble.dll" archivePath="OneScrobble.dll" lastWriteTime="24/8/2014 00:15:38" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="17/8/2014 12:49:08" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="16/8/2014 11:08:01" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="16/8/2014 17:39:43" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll" archivePath="ScheduledTaskAgent1.dll" lastWriteTime="17/8/2014 14:30:16" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25/9/2012 01:41:02" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="16/8/2014 17:39:43" />
+  <file source="C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\OneScrobble\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="17/8/2014 12:49:08" />
+</xapCache>

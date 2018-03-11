@@ -1,0 +1,4 @@
+C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\Vitor\SkyDrive\Windows Phone Projects\OneScrobble\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb
